@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Vedant Nikam 👋
 
@@ -7,8 +6,15 @@
 
 **Turning data into insights. Using AI to turn ideas into execution.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant-5723)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-nikam-238b96265/)
+<p>
+  <img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business-Intelligence-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Workflows-7C3AED?style=for-the-badge" />
+</p>
+
+<a href="https://github.com/vedant-5723">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -16,97 +22,139 @@
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech graduate in Artificial Intelligence & Machine Learning, interested in building data-driven solutions and intelligent AI-assisted workflows.
+I'm a B.Tech graduate in **Artificial Intelligence & Machine Learning**, passionate about Data Analytics, Business Intelligence and practical applications of AI.
 
-My work sits at the intersection of **Data Analytics, Business Intelligence, AI and Automation**.
+I enjoy transforming raw data into meaningful insights, developing analytical solutions and using modern AI tools to solve complex problems efficiently.
 
-- 📊 Interested in extracting actionable insights from complex datasets.
-- 🐍 Working with Python, SQL, Power BI and data analytics tools.
-- 🤖 Exploring how LLMs can improve research, analysis and development workflows.
-- 🧠 Using ChatGPT and Claude for structured problem-solving, planning, debugging and iterative execution.
-- 🔍 Focused on building practical projects that solve real-world problems.
+My interests lie at the intersection of **Data, Technology and Artificial Intelligence**.
 
-## 🎯 My Core Interests
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🐍 Working with Python, SQL and data analysis libraries.
+- 📈 Building analytical dashboards using Power BI and DAX.
+- 🗄️ Exploring ETL pipelines, PostgreSQL and dimensional data modelling.
+- 🤖 Leveraging ChatGPT, Claude and Ollama for AI-assisted problem-solving.
+- 🧠 Interested in prompt engineering, context engineering and LLM workflows.
+- 🌱 Currently strengthening my Analytics Engineering skills.
+
+---
+
+## 🎯 Areas of Interest
 
 ### 📊 Data Analytics & Business Intelligence
-- Data Cleaning & Transformation
+
 - Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
 - SQL & Database Analysis
 - Power BI & DAX
 - Data Visualization & Reporting
-- ETL and Data Modelling
-- Business & Operational Intelligence
+- ETL Pipelines
+- Data Modelling & Star Schema
+- Business Intelligence & KPI Development
+- Sales and Operational Analytics
 
-### 🤖 AI, LLMs & AI-Assisted Workflows
-- Prompt Engineering & Context Design
-- ChatGPT and Claude-powered workflows
-- Multi-step task decomposition
-- AI-assisted coding and debugging
-- LLM-based research and analysis
-- AI-powered automation
-- Local LLM experimentation with Ollama
+### 🤖 Artificial Intelligence & LLM Workflows
 
-## 🛠️ Tech Stack
+- Prompt Engineering
+- Context Engineering
+- Structured AI Instructions
+- ChatGPT & Claude Workflows
+- AI-Assisted Coding & Debugging
+- Multi-step Task Decomposition
+- Iterative Problem Solving
+- LLM Experimentation with Ollama
+- AI-Assisted Research & Analysis
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+---
 
-### Data Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+## 🛠️ Technical Skills
 
-### AI & Development
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Programming Languages
 
-## 🚀 Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### 1. Enterprise Sales & Supply Chain Intelligence
-Business intelligence project combining sales and supply-chain analysis to support data-driven decision-making.
+### Data Analytics & Visualization
 
-**Focus:** SQL | Python | PostgreSQL | Power BI
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-295F9E?style=for-the-badge" />
+</p>
 
-### 2. Netflix Data Analysis
-Exploratory analysis of Netflix content data to identify trends, distributions and insights.
+### Databases & Development Tools
 
-**Focus:** Python | Pandas | Data Visualization
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-### 3. InsightAI – AI Data Analyst & Dashboard Generator
-An AI-powered data analysis application designed to help users explore datasets, generate insights and build dashboards.
+### AI & LLM Tools
 
-**Focus:** Python | React | AI | Data Analysis | Dashboard Generation
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" />
+</p>
 
-### 4. JARVIS – Intelligent Voice Assistant
-A Python-based voice assistant exploring speech recognition, desktop automation and intelligent task execution.
+---
 
-**Focus:** Python | Speech Recognition | Automation
+## 🧠 AI Workflow & LLM Commanding
+
+I use Large Language Models as collaborative problem-solving tools to improve research, analytical thinking and technical execution.
+
+My approach focuses on structured instructions, context, iterative refinement and validation rather than simply generating one-time responses.
+
+### My AI Working Methodology
+
+| Stage | Approach |
+|---|---|
+| 01. Understand | Define the problem, context and expected outcome. |
+| 02. Instruct | Provide structured prompts, constraints and requirements. |
+| 03. Decompose | Break complex tasks into smaller executable steps. |
+| 04. Execute | Use AI assistance for research, analysis, coding and debugging. |
+| 05. Refine | Review outputs and iteratively improve the solution. |
+| 06. Validate | Test results, verify logic and correct errors. |
+
+### AI Tools
+
+- **ChatGPT:** Research, analytical reasoning, coding assistance and structured problem-solving.
+- **Claude:** Context-driven reasoning, document analysis and development assistance.
+- **Ollama:** Experimentation with locally hosted LLMs.
+
+**My philosophy:** AI should accelerate execution, not replace critical thinking or validation.
+
+---
 
 ## 📚 Currently Learning
 
-- Advanced SQL and analytical queries
-- Data Modelling and Analytics Engineering
-- dbt and BigQuery
-- Advanced Python for analytics
-- LLM workflows and AI-assisted development
+- Advanced SQL & Analytical Queries
+- Analytics Engineering
+- Data Modelling & Warehousing
+- dbt
+- Google BigQuery
+- Advanced Python for Data Analytics
+- AI-Assisted Development Workflows
+
+---
 
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant-5723&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedant-5723&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-5723&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-5723&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vedant-5723&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vedant-5723&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -114,14 +162,18 @@ A Python-based voice assistant exploring speech recognition, desktop automation 
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with people working in Data Analytics, Business Intelligence, AI and emerging technologies.
+I'm always interested in learning, collaborating and exploring opportunities in:
 
-- GitHub: https://github.com/vedant-5723
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- Data Analytics
+- Business Intelligence
+- Analytics Engineering
+- AI & LLM Applications
+- Data-Driven Problem Solving
+
+**Let's connect, collaborate and build something meaningful!**
 
 <div align="center">
 
-**"Think analytically. Build intelligently. Improve continuously."**
+### Think Analytically. Build Intelligently. Validate Continuously.
 
 </div>
