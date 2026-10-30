@@ -1,101 +1,110 @@
  <div align="center">
 
-# Hey, I'm Vedant Nikam 👋
+# VEDANT NIKAM
 
-### Data Analytics | Business Intelligence | AI-Driven Workflows
+### DATA × INTELLIGENCE × AI
 
-**Turning data into insights. Using AI to turn ideas into execution.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Business+Intelligence;Turning+Raw+Data+Into+Useful+Insights;Exploring+AI+%26+LLM+Workflows;Building+Solutions%2C+Not+Just+Prompts" alt="Typing SVG" />
+
+**I turn questions into insights, and ideas into working solutions.**
 
 <p>
-  <img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business-Intelligence-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Workflows-7C3AED?style=for-the-badge" />
+  <a href="https://github.com/vedant-5723">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-nikam-238b96265/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vedantnikam5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-<a href="https://github.com/vedant-5723">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 A Little About Me
 
-I'm a B.Tech graduate in **Artificial Intelligence & Machine Learning**, passionate about Data Analytics, Business Intelligence and practical applications of AI.
+I'm Vedant, an Artificial Intelligence & Machine Learning graduate interested in the intersection of **Data Analytics, Business Intelligence and Artificial Intelligence**.
 
-I enjoy transforming raw data into meaningful insights, developing analytical solutions and using modern AI tools to solve complex problems efficiently.
+I like understanding how things work, asking the right questions and finding ways to turn complex problems into practical solutions.
 
-My interests lie at the intersection of **Data, Technology and Artificial Intelligence**.
+My interests go beyond writing code. I enjoy exploring data, understanding business problems, designing analytical workflows and using AI to make problem-solving more effective.
 
-- 📊 Interested in Data Analytics and Business Intelligence.
-- 🐍 Working with Python, SQL and data analysis libraries.
-- 📈 Building analytical dashboards using Power BI and DAX.
-- 🗄️ Exploring ETL pipelines, PostgreSQL and dimensional data modelling.
-- 🤖 Leveraging ChatGPT, Claude and Ollama for AI-assisted problem-solving.
-- 🧠 Interested in prompt engineering, context engineering and LLM workflows.
-- 🌱 Currently strengthening my Analytics Engineering skills.
+- 📊 Turning raw data into meaningful business insights.
+- 🐍 Working with Python, SQL and analytical tools.
+- 📈 Building data-driven solutions with Power BI and DAX.
+- 🗄️ Exploring ETL, databases and data modelling.
+- 🤖 Experimenting with ChatGPT, Claude and local LLMs.
+- 🧠 Exploring prompt engineering and context-driven AI workflows.
 
 ---
 
-## 🎯 Areas of Interest
+## 🧭 How I Think
 
-### 📊 Data Analytics & Business Intelligence
+I believe good solutions start with good questions.
+
+Whether I am analysing a dataset or developing an application, my approach is built around understanding the problem before jumping into the solution.
+
+<div align="center">
+
+| 01 · QUESTION | 02 · EXPLORE |
+|:---:|:---:|
+| Understand the problem | Investigate the data |
+| 03 · BUILD | 04 · VALIDATE |
+| Develop the solution | Test, review and improve |
+
+</div>
+
+**My working philosophy:**
+
+- Understand before executing.
+- Evidence before assumptions.
+- Logic before complexity.
+- Validation before conclusions.
+- Continuous improvement over quick fixes.
+
+---
+
+## 📊 Data Analytics & Business Intelligence
+
+**My interest is not just in analysing data. It is in understanding what the data is trying to tell us.**
+
+I focus on the analytical process:
+
+`Business Question → Data → Analysis → Insights → Decisions`
+
+**Areas of Interest**
 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
 - SQL & Database Analysis
+- Business Intelligence & KPI Development
 - Power BI & DAX
 - Data Visualization & Reporting
-- ETL Pipelines
-- Data Modelling & Star Schema
-- Business Intelligence & KPI Development
-- Sales and Operational Analytics
-
-### 🤖 Artificial Intelligence & LLM Workflows
-
-- Prompt Engineering
-- Context Engineering
-- Structured AI Instructions
-- ChatGPT & Claude Workflows
-- AI-Assisted Coding & Debugging
-- Multi-step Task Decomposition
-- Iterative Problem Solving
-- LLM Experimentation with Ollama
-- AI-Assisted Research & Analysis
+- ETL Pipelines & Data Quality
+- Dimensional Data Modelling
+- Sales & Operational Analytics
 
 ---
 
-## 🛠️ Technical Skills
+## 🤖 AI & LLM Workflows
 
-### Programming Languages
+**I don't just use AI to generate answers. I use it to work through problems.**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+I treat Large Language Models as collaborative problem-solving tools. My approach involves structured instructions, context management, breaking down complex tasks and continuously reviewing the results.
 
-### Data Analytics & Visualization
+**My AI Workflow**
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DAX-295F9E?style=for-the-badge" />
-</p>
+1. **Context Engineering** — Give the model the right background, requirements and constraints.
+2. **Prompt Design** — Formulate clear instructions and expected outcomes.
+3. **Task Decomposition** — Break complex problems into smaller executable steps.
+4. **AI-Assisted Execution** — Use LLMs for research, analysis, coding and debugging.
+5. **Iterative Refinement** — Challenge incomplete answers and improve the output.
+6. **Validation** — Test the result, verify logic and correct errors.
 
-### Databases & Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-### AI & LLM Tools
+**AI Tools I Explore**
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
@@ -103,56 +112,64 @@ My interests lie at the intersection of **Data, Technology and Artificial Intell
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" />
 </p>
 
+> AI should accelerate execution, not replace independent thinking.
+
 ---
 
-## 🧠 AI Workflow & LLM Commanding
+## ⚙️ My Technology Stack
 
-I use Large Language Models as collaborative problem-solving tools to improve research, analytical thinking and technical execution.
+### Programming & Databases
 
-My approach focuses on structured instructions, context, iterative refinement and validation rather than simply generating one-time responses.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql" />
+</p>
 
-### My AI Working Methodology
+### Analytics & Data Visualization
 
-| Stage | Approach |
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/DAX-295F9E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" />
+</p>
+
+### Development & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+---
+
+## 🎯 What I'm Working Towards
+
+My long-term direction is to become a strong Analytics Engineer with the ability to combine data systems, business intelligence and AI-powered workflows.
+
+**My learning roadmap**
+
+| Area | Focus |
 |---|---|
-| 01. Understand | Define the problem, context and expected outcome. |
-| 02. Instruct | Provide structured prompts, constraints and requirements. |
-| 03. Decompose | Break complex tasks into smaller executable steps. |
-| 04. Execute | Use AI assistance for research, analysis, coding and debugging. |
-| 05. Refine | Review outputs and iteratively improve the solution. |
-| 06. Validate | Test results, verify logic and correct errors. |
-
-### AI Tools
-
-- **ChatGPT:** Research, analytical reasoning, coding assistance and structured problem-solving.
-- **Claude:** Context-driven reasoning, document analysis and development assistance.
-- **Ollama:** Experimentation with locally hosted LLMs.
-
-**My philosophy:** AI should accelerate execution, not replace critical thinking or validation.
+| SQL | Advanced queries, CTEs, window functions |
+| Data Engineering | ETL and data pipelines |
+| Data Modelling | Star schema and dimensional modelling |
+| Analytics Engineering | dbt and transformation workflows |
+| Cloud Analytics | Google BigQuery and GCP |
+| AI | LLM workflows and practical automation |
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced SQL & Analytical Queries
-- Analytics Engineering
-- Data Modelling & Warehousing
-- dbt
-- Google BigQuery
-- Advanced Python for Data Analytics
-- AI-Assisted Development Workflows
-
----
-
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedant-5723&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedant-5723&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-5723&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-5723&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/>
+<br />
 
 <img src="https://streak-stats.demolab.com?user=vedant-5723&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
@@ -160,20 +177,45 @@ My approach focuses on structured instructions, context, iterative refinement an
 
 ---
 
+## 💬 A Few Things I Believe In
+
+<div align="center">
+
+### "Curiosity creates questions."
+
+### "Data provides perspective."
+
+### "AI expands possibilities."
+
+### "Execution creates impact."
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating and exploring opportunities in:
+I'm always interested in connecting with people who enjoy working with data, technology, analytics and artificial intelligence.
+
+**Open to learning, collaboration and opportunities in:**
 
 - Data Analytics
 - Business Intelligence
 - Analytics Engineering
 - AI & LLM Applications
-- Data-Driven Problem Solving
-
-**Let's connect, collaborate and build something meaningful!**
 
 <div align="center">
 
-### Think Analytically. Build Intelligently. Validate Continuously.
+<a href="https://www.linkedin.com/in/vedant-nikam-238b96265/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:vedantnikam5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br />
+
+### THINK ANALYTICALLY. BUILD INTELLIGENTLY. VALIDATE CONTINUOUSLY.
 
 </div>
