@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 # VEDANT NIKAM
 
@@ -10,13 +11,13 @@
 
 <p>
   <a href="https://github.com/vedant-5723">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/vedant-nikam-238b96265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vedantnikam5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -95,7 +96,7 @@ I focus on the analytical process:
 
 I treat Large Language Models as collaborative problem-solving tools. My approach involves structured instructions, context management, breaking down complex tasks and continuously reviewing the results.
 
-**My AI Workflow**
+### My AI Workflow
 
 1. **Context Engineering** — Give the model the right background, requirements and constraints.
 2. **Prompt Design** — Formulate clear instructions and expected outcomes.
@@ -104,12 +105,18 @@ I treat Large Language Models as collaborative problem-solving tools. My approac
 5. **Iterative Refinement** — Challenge incomplete answers and improve the output.
 6. **Validation** — Test the result, verify logic and correct errors.
 
-**AI Tools I Explore**
+### AI Tools I Explore
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" />
+<p align="left">
+  <a href="https://chatgpt.com/" title="ChatGPT Official Website">
+    <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="https://claude.ai/" title="Claude Official Website">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude"/>
+  </a>
+  <a href="https://ollama.com/" title="Ollama Official Website">
+    <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama"/>
+  </a>
 </p>
 
 > AI should accelerate execution, not replace independent thinking.
@@ -118,28 +125,72 @@ I treat Large Language Models as collaborative problem-solving tools. My approac
 
 ## ⚙️ My Technology Stack
 
-### Programming & Databases
+### 💻 Programming & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql" />
+<p align="left">
+  <a href="https://www.python.org/" title="Python Official Website">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+  </a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL Official Website">
+    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
+  </a>
 </p>
 
-### Analytics & Data Visualization
+### 📊 Analytics & Data Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
-  <img src="https://img.shields.io/badge/DAX-295F9E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" />
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="Microsoft Power BI Official Website">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </a>
+  <a href="https://pandas.pydata.org/" title="Pandas Official Website">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" title="NumPy Official Website">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://matplotlib.org/" title="Matplotlib Official Website">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" title="Seaborn Official Website">
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dax/" title="Microsoft DAX Documentation">
+    <img src="https://img.shields.io/badge/DAX-295F9E?style=for-the-badge" alt="DAX"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/power-query/" title="Microsoft Power Query Documentation">
+    <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge" alt="Power Query"/>
+  </a>
 </p>
 
-### Development & Productivity
+### 🧰 Development & Productivity
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<p align="left">
+  <a href="https://git-scm.com/" title="Git Official Website">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  </a>
+  <a href="https://github.com/" title="GitHub Official Website">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code Official Website">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+  </a>
+  <a href="https://jupyter.org/" title="Jupyter Official Website">
+    <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter"/>
+  </a>
+</p>
+
+### 🤖 AI & LLM Tools
+
+<p align="left">
+  <a href="https://chatgpt.com/" title="ChatGPT Official Website">
+    <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="https://claude.ai/" title="Claude Official Website">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude"/>
+  </a>
+  <a href="https://ollama.com/" title="Ollama Official Website">
+    <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama"/>
+  </a>
 </p>
 
 ---
@@ -148,7 +199,7 @@ I treat Large Language Models as collaborative problem-solving tools. My approac
 
 My long-term direction is to become a strong Analytics Engineer with the ability to combine data systems, business intelligence and AI-powered workflows.
 
-**My learning roadmap**
+### My Learning Roadmap
 
 | Area | Focus |
 |---|---|
@@ -165,13 +216,13 @@ My long-term direction is to become a strong Analytics Engineer with the ability
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedant-5723&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedant-5723&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-5723&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-5723&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<br />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=vedant-5723&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=vedant-5723&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -207,14 +258,14 @@ I'm always interested in connecting with people who enjoy working with data, tec
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vedant-nikam-238b96265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="mailto:vedantnikam5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
 </a>
 
-<br />
+<br/>
 
 ### THINK ANALYTICALLY. BUILD INTELLIGENTLY. VALIDATE CONTINUOUSLY.
 
